@@ -3,4 +3,3 @@ change from conflict-1 branch
 change from main branch
 This is stash practice change
 Rebase feature change
-Main branch change for rebase
